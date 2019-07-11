@@ -1,6 +1,9 @@
 # TS3ToastNotifications
 Changelog:
 
+	1.1.1
+	-Added win32 build
+
 	1.1
 	-Added multiserver support
 	-Added toasts for channel kicks, server kicks, server bans and pokes
