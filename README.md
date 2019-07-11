@@ -1,10 +1,10 @@
 # TS3ToastNotifications
-
 Changelog:
-	1.1:
-	Added multiserver support
-	Added toasts for channel kicks, server kicks, server bans and pokes
-	Changed toast style and formatting. Now follows pattern: (channel) (user) (action)
+
+	1.1
+	-Added multiserver support
+	-Added toasts for channel kicks, server kicks, server bans and pokes
+	-Changed toast style and formatting. Now follows pattern: (channel) (user) (action)
 	
 You can either use the ts3_plugin installer by grabbing the .ts3_plugin file, or use the dll and manually put it in your teamspeak 3 plugins folder,
 or if you are a paranoid EVE player, as you should be, grab the Source code and build it yourself!
